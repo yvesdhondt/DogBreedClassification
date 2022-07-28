@@ -7,7 +7,7 @@ This project classifies 133 dog breeds. This is achieved by finetuning a resnet1
 ## Project Set Up and Installation
 *Enter AWS through the gateway in the course and open SageMaker Studio. 
 Download the starter files.
-Download/Make the dataset available. *
+Download/Make the dataset available.*
 
 ## Dataset
 *The provided dataset is the dogbreed classification dataset which can be found in the classroom.
@@ -16,7 +16,7 @@ The project is designed to be dataset independent so if there is a dataset that 
 The dataset used is the dogbreed classification dataset. This dataset contains images on 133 different dog breeds.
 
 ### Access
-*Upload the data to an S3 bucket through the AWS Gateway so that SageMaker has access to the data. *
+*Upload the data to an S3 bucket through the AWS Gateway so that SageMaker has access to the data.*
 
 ## Hyperparameter Tuning
 *What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search*
